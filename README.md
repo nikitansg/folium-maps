@@ -9,7 +9,7 @@ This project focuses on creating advanced data visualizations with Folium maps u
 1. Creating interactive maps with Folium
 2. Enhancing maps with additional layers and markers
 3. Customizing map styles and appearance
-4. Combining Matplotlib plots with Folium maps for advanced data visualization.
+4. Combining Matplotlib plots with Folium maps for advanced data visualization
 
 ## Getting Started
 1. Clone or download this repository.
